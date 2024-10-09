@@ -12,7 +12,8 @@
 8.	Stop the program. 
 # PROGRAM
 
-```#include<stdio.h>
+```
+#include<stdio.h>
 #include<conio.h> 
 #include<ctype.h> 
 #include<malloc.h> 
@@ -63,7 +64,8 @@ printf("\n Symbol Found"); printf("\n%c%s%d\n",srch,"@address",add[i]); flag=1;
 if(flag==0)
 printf("\nSymbol Not Found"); 
 getch();
-}```
+}
+```
 
 # OUTPUT
 ![Screenshot 2024-09-18 114316](https://github.com/user-attachments/assets/e844b918-4648-4682-8bce-f720c71d9689)
